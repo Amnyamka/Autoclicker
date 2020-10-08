@@ -1,0 +1,9 @@
+=========version 0.1=========
+
+-pre-alpha release.
+-NOT optimised
+
+=========version 0.2=========
+
+- Interface now work properly
+- Still may be laggy
